@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "uWindowCapture",
+	"Description": "Plug-in to capture the window so that it can be used as Texture 2D at UE 4",
+	"Category": "Other",
+	"CreatedBy": "ayumax",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}

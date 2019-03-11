@@ -1,0 +1,20 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "4.21",
+  "Category": "",
+  "Description": "",
+  "Enterprise": true,
+  "Modules": [
+    {
+      "Name": "UWindowCaptureSample",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "uWindowCapture",
+      "Enabled": true
+    }
+  ]
+}
